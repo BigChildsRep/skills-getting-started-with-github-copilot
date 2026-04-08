@@ -38,6 +38,30 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Tennis Team": {
+        "description": "Competitive tennis training and matches",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["alex@mergington.edu"]
+    },
+    "Basketball Team": {
+        "description": "Basketball practice and intramural games",
+        "schedule": "Mondays and Wednesdays, 5:00 PM - 6:30 PM",
+        "max_participants": 15,
+        "participants": ["ryan@mergington.edu", "james@mergington.edu"]
+    },
+    "Debate Club": {
+        "description": "Develop public speaking and argumentation skills",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 14,
+        "participants": ["sarah@mergington.edu"]
+    },
+    "Art Studio": {
+        "description": "Explore painting, drawing, and mixed media techniques",
+        "schedule": "Fridays, 3:00 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["isabella@mergington.edu", "lucas@mergington.edu"]
     }
 }
 
